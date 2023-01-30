@@ -1,3 +1,3 @@
 # calculator
 
-![CALCULATOR](/covere.PNG)
+![CALCULATOR](/cover.PNG)
